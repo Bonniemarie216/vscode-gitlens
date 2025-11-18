@@ -18049,7 +18049,7 @@
 		"eslint-plugin-lit": "1.15.0",
 		"eslint-plugin-wc": "2.1.1",
 		"fork-ts-checker-webpack-plugin": "6.5.3",
-		"glob": "11.0.0",
+		"glob": "11.1.0",
 		"globals": "15.9.0",
 		"html-loader": "5.1.0",
 		"html-webpack-plugin": "5.6.0",
